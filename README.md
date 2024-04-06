@@ -1,6 +1,6 @@
 <!---
-Powershell repository for joshuarupp
+PowerCLI repository for joshuarupp
 --->
 
-## JOSH RUPP
-#### joshuarupp@gmail.com
+### Josh Rupp
+### joshuarupp@gmail.com
